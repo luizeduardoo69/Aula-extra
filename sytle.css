@@ -1,3 +1,41 @@
-.cabecalho(
+.corpodosite{
+    color: white;
+    font-size: 20px;
+}
 
-)
+.cachorro{
+    background-image: linear-gradient(black,white);
+    color: azure;
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+}
+
+.cão{
+    background-image: linear-gradient(white,orange);
+    padding: 100px;
+    justify-content: center;
+}
+
+.passaro{
+    background-image: linear-gradient(orange,white);
+    padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
+.rodape{
+    background-image: linear-gradient(white,black);
+}
+
+.gato{
+    padding-right: 20cm;
+    width: 20cm;
+}
+
+.colheira{
+    padding-right: 20cm;
+    width: 20cm;
+}
